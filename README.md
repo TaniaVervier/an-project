@@ -5,3 +5,6 @@
 
   
 - 🤝 I coded this project following the design of my friend, [Dilara Tura](https://www.behance.net/gallery/141604429/UXUI-Atelier-des-Nptas-Projet-Fictif)
+
+
+Project to improve, I want to add a backend and make it a "real" commercial site.
